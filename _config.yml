@@ -1,0 +1,25 @@
+title: Working Notes
+description: GitHub Pages for my Working Notes
+remote_theme: just-the-docs/just-the-docs@v0.6.2
+
+url: https://shaiuwen0310.github.io
+
+aux_links:
+  Template Repository: https://github.com/shaiuwen0310/working-notes
+
+callouts_level: quiet # or loud 
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
